@@ -9,6 +9,4 @@ Wechat app | 从FlexLayout布局开始
 # 布局效果演示
 
 ![effect](http://hardog.net/images/assist/20160930/wechat-effect-app-xM.gif)
-![bb](http://hardog.net/images/assist/20160930/bb.png)
-![douban](http://hardog.net/images/assist/20160930/douban.png)
 
