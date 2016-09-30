@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<scroll-view scroll-y="true" class="container">
+    
+</scroll-view>
