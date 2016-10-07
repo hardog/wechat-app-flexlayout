@@ -2,7 +2,8 @@
   "pages":[
     "pages/tm/tm",
     "pages/bb/bb",
-    "pages/douban/douban"
+    "pages/douban/douban",
+    "pages/detail/detail"
   ],
   "tabBar":{
     "borderStyle": "white",

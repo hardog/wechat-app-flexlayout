@@ -1,0 +1,20 @@
+<scroll-view scroll-y="true" style="height:600px" class="container">
+    <view class="m-name">
+        machine name & uptime
+    </view>
+    <view class="m-cpu">
+        cpu data
+    </view>
+    <view class="m-mem">
+        mem data
+    </view>
+    <view class="m-load">
+        loads
+    </view>
+    <view class="m-cores">
+        cores from cpu
+    </view>
+    <view class="m-plist">
+        process - list
+    </view>
+</scroll-view>
