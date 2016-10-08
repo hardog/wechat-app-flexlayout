@@ -1,6 +1,12 @@
 var app = getApp();
 Page({
+    data: {
+        detail: {}
+    },
     onLoad: function(opts){
-        console.log('detail:', app.globalData.plist[opts.index]);
+        console.log(app.globalData.plist[opts.index]);
+        this.setData({
+            detail: app.globalData.plist[opts.index]
+        });
     }
 });
